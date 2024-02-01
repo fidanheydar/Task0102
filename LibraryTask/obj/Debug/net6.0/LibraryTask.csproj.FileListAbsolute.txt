@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.exe
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.deps.json
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.runtimeconfig.json
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.dll
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\bin\Debug\net6.0\LibraryTask.pdb
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.dll
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\obj\Debug\net6.0\refint\LibraryTask.dll
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.pdb
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\obj\Debug\net6.0\LibraryTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\LibraryTask\LibraryTask\obj\Debug\net6.0\ref\LibraryTask.dll

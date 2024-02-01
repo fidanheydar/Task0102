@@ -1,0 +1,15 @@
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\bin\Debug\net6.0\KeyValueTask.exe
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\bin\Debug\net6.0\KeyValueTask.deps.json
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\bin\Debug\net6.0\KeyValueTask.runtimeconfig.json
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\bin\Debug\net6.0\KeyValueTask.dll
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\bin\Debug\net6.0\KeyValueTask.pdb
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\obj\Debug\net6.0\KeyValueTask.csproj.AssemblyReference.cache
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\obj\Debug\net6.0\KeyValueTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\obj\Debug\net6.0\KeyValueTask.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\obj\Debug\net6.0\KeyValueTask.AssemblyInfo.cs
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\obj\Debug\net6.0\KeyValueTask.csproj.CoreCompileInputs.cache
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\obj\Debug\net6.0\KeyValueTask.dll
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\obj\Debug\net6.0\refint\KeyValueTask.dll
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\obj\Debug\net6.0\KeyValueTask.pdb
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\obj\Debug\net6.0\KeyValueTask.genruntimeconfig.cache
+C:\Users\HP\Desktop\LibraryTask\KeyValueTask\obj\Debug\net6.0\ref\KeyValueTask.dll
